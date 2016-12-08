@@ -1,9 +1,9 @@
 # TestGithub20161208
 Github tutorial is my first repository. It is a repository for showing the bare minimaim of github and to maneuver, function, etc. 
 
-git --global user.name "qiph"
+git config --global user.name "qiph"
 
-git --global user.email "275775988@qq.com"
+git config --global user.email "275775988@qq.com"
 
 git clone "https://github.com/qiph7/TestGithub20161208"
 
