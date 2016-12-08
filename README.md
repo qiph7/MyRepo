@@ -20,3 +20,5 @@ git commit -m "test file text is added as a test"
 git log
 
 git push    --input my usename and password
+
+git pull -u origin master
